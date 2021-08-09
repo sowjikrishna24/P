@@ -1,4 +1,11 @@
+class op{
+
+public void add(int a,int b){
+}
+
+
 public static void main(String[] args)
 {
 System.out.println("sowji");
+}
 }
